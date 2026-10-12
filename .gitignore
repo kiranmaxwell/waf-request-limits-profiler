@@ -1,0 +1,18 @@
+# Captures and generated reports may contain cookies, tokens and customer data
+*.har
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
